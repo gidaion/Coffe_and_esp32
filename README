@@ -1,4 +1,4 @@
-Claro, posso adicionar tags coloridas ao final das tecnologias utilizadas para dar um toque visual adicional. Aqui está o README atualizado:
+Claro! Aqui está o README com as tags coloridas conforme o seu exemplo:
 
 ---
 
@@ -28,12 +28,12 @@ O **Coador Inteligente** é um exemplo prático de nossa filosofia. Este projeto
 
 ## 🔧 Tecnologias Utilizadas
 
-- **ESP32**: Microcontrolador para a inteligência do dispositivo ![ESP32](https://img.shields.io/badge/ESP32-blue)
-- **Arduino**: Plataforma de prototipagem eletrônica ![Arduino](https://img.shields.io/badge/Arduino-blue)
-- **Autodesk Inventor**: Software de CAD para design do produto ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-orange)
-- **Fusion 360**: Ferramenta para modelagem 3D e simulações ![Fusion 360](https://img.shields.io/badge/Fusion%20360-orange)
-- **FreeCAD**: Software de CAD open-source para design paramétrico ![FreeCAD](https://img.shields.io/badge/FreeCAD-brightgreen)
-- **Fritzing**: Ferramenta para documentação de circuitos eletrônicos ![Fritzing](https://img.shields.io/badge/Fritzing-red)
+[![ESP32](https://img.shields.io/badge/ESP32-Microcontrolador-blue)](https://www.espressif.com/en/products/socs/esp32)
+[![Arduino](https://img.shields.io/badge/Arduino-Prototipagem-blue)](https://www.arduino.cc/)
+[![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-CAD-orange)](https://www.autodesk.com/products/inventor/overview)
+[![Fusion 360](https://img.shields.io/badge/Fusion%20360-Modelagem%203D-orange)](https://www.autodesk.com/products/fusion-360/overview)
+[![FreeCAD](https://img.shields.io/badge/FreeCAD-CAD-brightgreen)](https://www.freecadweb.org/)
+[![Fritzing](https://img.shields.io/badge/Fritzing-Documentação%20de%20Circuitos-red)](https://fritzing.org/)
 
 ## 🤝 Contribuições
 
@@ -58,6 +58,17 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 
 ---
 
+![Imagem do Coador Inteligente](link-para-imagem)
+
+---
+
+**Siga-nos nas redes sociais:**
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
+
+---
 
 ![Badge](https://img.shields.io/badge/Projeto-Maker-blue)
 
@@ -71,3 +82,4 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 
 ---
 
+Espero que esta versão com as tags coloridas atenda às suas expectativas! Sinta-se à vontade para ajustá-la conforme necessário.
