@@ -43,11 +43,6 @@ Este projeto é disponibilizado sob a [licença MIT](LICENSE), permitindo uso e 
 
 ---
 
-**Desenvolvedor:** [Seu Nome](https://github.com/seu-usuario)  
-**Contato:** seu-email@example.com
-
----
-
 Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte a documentação no diretório correspondente.
 
 ---
@@ -56,7 +51,7 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 
 ---
 
-![Imagem do Coador Inteligente](link-para-imagem)
+![Imagem do Coador Inteligente](https://media.licdn.com/dms/image/D4D2DAQHQu2cAmYs8Zg/profile-treasury-image-shrink_1280_1280/0/1695137315675?e=1717365600&v=beta&t=PneUt3q0nJLLH7rNBnOGhqy8-hMJkkOvQ2G1Rv5mv1k)
 
 ---
 
