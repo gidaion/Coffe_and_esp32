@@ -51,6 +51,11 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 
 **Nota:** Este README é apenas uma introdução ao projeto do **Coador Inteligente DIY**. Esperamos que inspire você a criar e inovar!
 
+
+---
+[![Visualizar Modelo 3D](https://img.shields.io/badge/Visualizar%20Modelo%203D-STL-blue)](https://github.com/gidaion/Coffe_and_esp32/blob/main/base_montada.stl)
+---
+
 ---
 
 <img src="https://media.licdn.com/dms/image/D4D2DAQHQu2cAmYs8Zg/profile-treasury-image-shrink_1280_1280/0/1695137315675?e=1717365600&v=beta&t=PneUt3q0nJLLH7rNBnOGhqy8-hMJkkOvQ2G1Rv5mv1k" alt="Imagem do Coador Inteligente" width="400" />
