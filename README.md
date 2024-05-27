@@ -32,6 +32,8 @@ O **Coador Inteligente** é um exemplo prático de nossa filosofia. Este projeto
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-Modelagem%203D-orange)](https://www.autodesk.com/products/fusion-360/overview)
 [![FreeCAD](https://img.shields.io/badge/FreeCAD-CAD-brightgreen)](https://www.freecadweb.org/)
 [![Fritzing](https://img.shields.io/badge/Fritzing-Documentação%20de%20Circuitos-red)](https://fritzing.org/)
+[![Impressão 3D](https://img.shields.io/badge/Impress%C3%A3o%203D-Tecnologia-green)](https://www.simplify3d.com/)
+
 
 ## 🤝 Contribuições
 
@@ -52,9 +54,6 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 ---
 
 ![Imagem do Coador Inteligente](https://media.licdn.com/dms/image/D4D2DAQHQu2cAmYs8Zg/profile-treasury-image-shrink_1280_1280/0/1695137315675?e=1717365600&v=beta&t=PneUt3q0nJLLH7rNBnOGhqy8-hMJkkOvQ2G1Rv5mv1k)
-
----
-
 
 ---
 
