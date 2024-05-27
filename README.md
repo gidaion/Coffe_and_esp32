@@ -1,6 +1,7 @@
----
+
 
 # 🌟 Coador Inteligente DIY 🌟
+---
 
 ## 📜 Visão Geral
 
@@ -35,6 +36,30 @@ O **Coador Inteligente** é um exemplo prático de nossa filosofia. Este projeto
 [![Impressão 3D](https://img.shields.io/badge/Impress%C3%A3o%203D-Tecnologia-green)](https://www.simplify3d.com/)
 ![Badge](https://img.shields.io/badge/Projeto-Maker-blue)
 
+## 📝 Lista de Material
+
+1. **ESP32**: Microcontrolador - 1 unidade.
+2. **Arduino**: Placa de prototipagem - 1 unidade.
+3. **350g Petg Branco**
+4. **Impressora 3D**: Para produzir peças do projeto - 1 unidade.
+5. **Sensores, LEDs, Display LCD**: Componentes eletrônicos específicos:
+   - Sensor de Umidade e Temperatura DHT11 - 1 unidade.
+   - Display LCD com I2C - 1 unidade.
+   - Sensor Ultrassônico (HC-SR04) - 1 conjunto (contendo 1 módulo transmissor e 1 módulo receptor).
+   - Sensor de Luz - 1 unidade.
+   - LEDs Endereçáveis (WS2812B, por exemplo) - 1 fita com 12 LEDs.
+   - Resistores (se necessário) - Quantidade variável dependendo da configuração elétrica.
+
+## 🛠️ Montagem
+
+1. **Montagem do Hardware**:
+   - Conecte os componentes eletrônicos de acordo com o esquemático elétrico fornecido no diretório correspondente.
+
+2. **Configuração do Software**:
+   - Abra o código-fonte fornecido no Arduino IDE.
+   - Configure os pinos e parâmetros conforme especificado nos comentários do código.
+   - Faça o upload do código para o ESP32 utilizando o Arduino IDE.
+
 ## 🤝 Contribuições
 
 Se você compartilha nossa visão, contribua! Faça um fork deste repositório, implemente melhorias ou proponha novas ideias. As possibilidades são empolgantes quando aplicamos a mentalidade DIY em áreas como a inteligência residencial.
@@ -62,5 +87,4 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 - **Exemplos de outros projetos DIY com Arduino**
 - **Tutoriais para iniciantes em Autodesk Inventor**
 
----
-
+--- 
