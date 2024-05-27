@@ -1,5 +1,3 @@
-Claro! Aqui está o README com as tags coloridas conforme o seu exemplo:
-
 ---
 
 # 🌟 Coador Inteligente DIY 🌟
@@ -62,11 +60,6 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 
 ---
 
-**Siga-nos nas redes sociais:**
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/seu-usuario) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 
 ---
 
@@ -82,4 +75,3 @@ Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte
 
 ---
 
-Espero que esta versão com as tags coloridas atenda às suas expectativas! Sinta-se à vontade para ajustá-la conforme necessário.
