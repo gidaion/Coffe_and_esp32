@@ -48,11 +48,6 @@ Este projeto é disponibilizado sob a [licença MIT](LICENSE), permitindo uso e 
 Para mais detalhes sobre como implementar ou contribuir para o projeto, consulte a documentação no diretório correspondente.
 
 ---
-
-**Nota:** Este README é apenas uma introdução ao projeto do **Coador Inteligente DIY**. Esperamos que inspire você a criar e inovar!
-
-
----
 [![Visualizar Modelo 3D](https://img.shields.io/badge/Visualizar%20Modelo%203D-STL-blue)](https://github.com/gidaion/Coffe_and_esp32/blob/main/base_montada.stl)
 ---
 
